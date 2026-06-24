@@ -358,6 +358,8 @@ Complete list of metrics
     FID
     CosineSimilarity
     Entropy
+    ExpectedCalibrationError
+    MaximumCalibrationError
     KLDivergence
     JSDivergence
     MatthewsCorrCoef
